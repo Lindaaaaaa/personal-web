@@ -1,0 +1,32 @@
+.pic{ 
+	background: url(https://144ecbd9-a-62cb3a1a-s-sites.googlegroups.com/site/ubccpsc2102014w1/labs-and-project/project/markers.png?attachauth=ANoY7cowHGts50fmA115QUwqPKAHiuHpiXbBws_YHO68DGCFk9UUIx9tUPqIa-BEwk89jPh93rm3XqZCP5WjE-yBHixHo5DBsSKSFqEBX0zrnqkvTYU77lruqpcV_hR7oS_CwJDbD5wc_2WqRt3op4hlr-styByyY-H3BfZz_dbmdzxVu9nDJ3GZp1i8Lstuc4Gb6Y_iRVbZqAJkvtDIJj9fm2TqMdb6655L-29QbNwMsdNHSqkULY2--UL4LB4Wlr2qY9QUCZ2c&attredirects=0); 
+	background-size: 400px 1000px;
+	background-repeat: no-repeat;
+	} 
+.text{ width:400px; height:1000px; background:#FFF; opacity:0; } 
+.pic:hover .text { 
+	opacity:0.6; t
+	ext-align:justify; 
+	color:#000000; 
+	font-size:20px; 
+	font-weight:700; 
+	font-family:"Times New Roman", Times, serif; 
+	padding:30px; 
+} 
+.pic-1{
+	position: absolute;
+    top: 500px;
+    left: 550px;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+
+h2{
+	letter-spacing: 1px;
+	text-transform: capitalize;
+	text-shadow: 3px 3px 3px #CCCCCC;
+	font-family: Levitte Script;
+	color: orange;
+}
+
